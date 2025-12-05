@@ -8,6 +8,7 @@ Nombre simbólico que representa un valor fijo e inmutable a lo largo de la ejec
 Brouter (o enrutador puente) es un dispositivo que combina las funciones de un puente de red y un enrutador, operando tanto en la capa de enlace de datos como en la capa de red del modelo OSI.
 4. **😘Pytest**
 es un framework popular, fácil de usar y potente para escribir y ejecutar pruebas de software en Python, ya sea unitarias, de integración, funcionales o de extremo a extremo.
+
 5.🎶**Gradle**
 herramienta de automatización de compilación y gestión de proyectos de código abierto
 
