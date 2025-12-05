@@ -11,3 +11,5 @@ es un framework popular, fácil de usar y potente para escribir y ejecutar prueb
 5.🎶**Gradle**
 herramienta de automatización de compilación y gestión de proyectos de código abierto
 
+6. 😁 **Amazon CodeWhisperer**
+asistente de programación de inteligencia artificial de Amazon Web Services (AWS) que proporciona sugerencias de código contextuales en tiempo real, generando fragmentos de código basados en tus comentarios en lenguaje natural y el código existente en tu entorno de desarrollo (IDE).
